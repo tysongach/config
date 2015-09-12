@@ -1,0 +1,75 @@
+{
+  "auto_complete": true,
+  "auto_complete_commit_on_tab": true,
+  "auto_complete_triggers":
+  [
+    {
+      "characters": "<",
+      "selector": "text.html"
+    }
+  ],
+  "auto_complete_with_fields": true,
+  "bold_folder_labels": true,
+  "caret_style": "phase",
+  "close_windows_when_empty": true,
+  "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+  "create_window_at_startup": false,
+  "detect_indentation": false,
+  "draw_indent_guides": true,
+  "draw_white_space": "selection",
+  "ensure_newline_at_eof_on_save": true,
+  "fade_fold_buttons": true,
+  "file_exclude_patterns":
+  [
+    "*.css.map",
+    "*.min.*",
+    ".DS_Store",
+    "*.sublime*"
+  ],
+  "folder_exclude_patterns":
+  [
+    ".git",
+    ".sass-cache",
+    "bower_components",
+    "build",
+    "db",
+    "dist",
+    "log",
+    "node_modules",
+    "tmp"
+  ],
+  "font_face": "Office Code Pro D",
+  "font_size": 17.0,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "SHS-Compass-Mixins",
+    "Vintage",
+    "SHS-Compass-Variables"
+  ],
+  "indent_guide_options":
+  [
+    "draw_active"
+  ],
+  "line_padding_bottom": 1.8,
+  "line_padding_top": 1.8,
+  "match_brackets": true,
+  "match_brackets_angle": true,
+  "match_brackets_braces": true,
+  "match_brackets_content": true,
+  "match_brackets_square": true,
+  "open_files_in_new_window": false,
+  "rulers":
+  [
+    75
+  ],
+  "scroll_past_end": true,
+  "tab_size": 2,
+  "theme": "Spacegray.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "wide_caret": true,
+  "word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}~?",
+  "word_wrap": true
+}
