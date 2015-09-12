@@ -23,8 +23,7 @@
   [
     "*.css.map",
     "*.min.*",
-    ".DS_Store",
-    "*.sublime*"
+    ".DS_Store"
   ],
   "folder_exclude_patterns":
   [
@@ -39,14 +38,14 @@
     "tmp"
   ],
   "font_face": "Office Code Pro D",
-  "font_size": 17.0,
+  "font_size": 18.0,
   "highlight_line": true,
   "highlight_modified_tabs": true,
   "ignored_packages":
   [
     "SHS-Compass-Mixins",
-    "Vintage",
-    "SHS-Compass-Variables"
+    "SHS-Compass-Variables",
+    "Vintage"
   ],
   "indent_guide_options":
   [
@@ -62,7 +61,7 @@
   "open_files_in_new_window": false,
   "rulers":
   [
-    75
+    80
   ],
   "scroll_past_end": true,
   "tab_size": 2,
