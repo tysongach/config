@@ -98,7 +98,7 @@ linters:
     severity: warning
   SelectorFormat:
     enabled: true
-    convention: strict_BEM
+    convention: hyphenated_BEM
   Shorthand:
     enabled: true
     allowed_shorthands: [1, 2, 3]
