@@ -65,6 +65,7 @@
     80
   ],
   "scroll_past_end": true,
+  "show_panel_on_build": false,
   "spacegray_tabs_auto_width": true,
   "tab_size": 2,
   "theme": "Spacegray.sublime-theme",
