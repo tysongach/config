@@ -30,6 +30,8 @@
   [
     ".git",
     ".sass-cache",
+    ".tmp",
+    "_site",
     "bower_components",
     "build",
     "db",
