@@ -63,6 +63,8 @@
   "open_files_in_new_window": false,
   "rulers":
   [
+    50,
+    72,
     80
   ],
   "scroll_past_end": true,
