@@ -1,3 +1,7 @@
+## Sublime Text
+
+- [User settings](Preferences.sublime-settings)
+
 ## Alfred
 
 #### Workflows
