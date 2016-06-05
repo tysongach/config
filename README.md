@@ -4,15 +4,15 @@
 
 ## Alfred
 
-#### Workflows
+### Workflows
 
 - [caniuse](https://github.com/willfarrell/alfred-caniuse-workflow)
-- [GitHub](http://gordonfontenot.com)
+- [GitHub](https://github.com/gharlan/alfred-github-workflow)
 - [IP Address](https://github.com/zenorocha/alfred-workflows/tree/master/ip-address)
 - tbsearch
 - [Toggler Wifi](https://www.dropbox.com/s/6uy61eg8x2ayrzj/Toggler%20Wifi.alfredworkflow)
 
-#### Theme
+### Theme
 
 I use my own custom theme called “Wynton”—found in this repo—which features a
 mostly white UI with a slightly transparent background
