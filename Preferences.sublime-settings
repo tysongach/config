@@ -40,8 +40,8 @@
     "pkg",
     "tmp"
   ],
-  "font_face": "Office Code Pro D",
-  "font_size": 17.0,
+  "font_face": "Input",
+  "font_size": 16,
   "highlight_line": true,
   "highlight_modified_tabs": true,
   "ignored_packages":
@@ -54,8 +54,6 @@
   [
     "draw_active"
   ],
-  "line_padding_bottom": 1.8,
-  "line_padding_top": 1.8,
   "match_brackets": true,
   "match_brackets_angle": true,
   "match_brackets_braces": true,
