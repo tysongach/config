@@ -37,6 +37,7 @@
     "dist",
     "log",
     "node_modules",
+    "pkg",
     "tmp"
   ],
   "font_face": "Office Code Pro D",
