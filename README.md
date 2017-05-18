@@ -6,11 +6,10 @@
 
 ### Workflows
 
-- [caniuse](https://github.com/willfarrell/alfred-caniuse-workflow)
-- [GitHub](https://github.com/gharlan/alfred-github-workflow)
+- [Can I Use…](https://github.com/willfarrell/alfred-caniuse-workflow)
 - [IP Address](https://github.com/zenorocha/alfred-workflows/tree/master/ip-address)
-- tbsearch
-- [Toggler Wifi](https://www.dropbox.com/s/6uy61eg8x2ayrzj/Toggler%20Wifi.alfredworkflow)
+- [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow)
+- [Todoist](https://github.com/moranje/alfred-workflow-todoist)
 
 ### Theme
 
